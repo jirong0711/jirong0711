@@ -7,7 +7,7 @@
 <p align="center">
  I'm Jirong, a Slow Starter🌱 <br>
 I'm a graduate student majoring in Statistics and doing an internship as a Data Scientist! <br>
-Hope to give courage and inspirations to All Slow Starters✨ 
+Hope to give inspirations and encourage All Slow Starters✨ 
 </p>
 
 
