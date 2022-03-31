@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Slow%20Starter();%20&fontSize=90&fontColor=000000)
 
-<!--
-**jirong0711/jirong0711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋  Hi there 👋
+I'm Jirong, a Slow Starter🌱
+I'm a graduate student majoring in Statistics and doing an internship as a Data Scientist!
+Hope to give courage and inspirations to All Slow Starters✨
 
-Here are some ideas to get you started:
+🛠 Tech Stack 🛠
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
