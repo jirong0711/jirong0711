@@ -3,13 +3,11 @@
 
 
 
-I'm a graduate student majoring in Statistics and doing an internship as a Data Scientist!
-Hope to give courage and inspirations to All Slow Starters✨
-
 <h3 align="center"><i> 👋  Hi there 👋 </i></h3>
 <p align="center">
  I'm Jirong, a Slow Starter🌱 <br>
-I want to be a person who gives you new wisdom. ✨
+I'm a graduate student majoring in Statistics and doing an internship as a Data Scientist! <br>
+Hope to give courage and inspirations to All Slow Starters✨ 
 </p>
 
 
