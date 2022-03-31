@@ -6,8 +6,7 @@
 <h3 align="center"><i> 👋  Hi there 👋 </i></h3>
 <p align="center">
  I'm Jirong, a Slow Starter🌱 <br>
-I'm a graduate student majoring in Statistics and doing an internship as a Data Scientist! <br>
-Hope to give inspirations and encourage All Slow Starters✨ 
+Hope to give inspirations and encourage All Slow Starters✨ <br>
 </p>
 
 
